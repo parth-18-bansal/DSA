@@ -3,6 +3,7 @@ if there is an array and you want to make changes in it in place.
 Ways: 
 1. traverse array in n time. and try to store the a value in it, which if you put in the "Formula X" then you can retrieve the initial value and
 the new value you want to store there.
+2. But these are not the only ways there can be other good ways also
 
 questions:
 1. Frequencies in a Limited Array
